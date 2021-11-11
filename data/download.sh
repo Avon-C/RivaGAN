@@ -8,7 +8,7 @@ mv hollywood2/AVIClips/*train*.avi hollywood2/train/
 mkdir hollywood2/val
 mv hollywood2/AVIClips/*test*.avi hollywood2/val/
 
-# Moments in Tine
+# Moments in Time
 wget http://data.csail.mit.edu/soundnet/actions3/split1/Moments_in_Time_Mini.zip
 unzip Moments_in_Time_Mini.zip
 rm Moments_in_Time_Mini.zip
